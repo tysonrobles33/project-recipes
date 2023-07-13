@@ -3,3 +3,17 @@
     background-color: rgb(122, 122, 122);
     color: white;
 }
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+ul {
+    margin-left: 40%;
+    text-align: left;
+}
+
+ol {
+    text-align: left;
+}
