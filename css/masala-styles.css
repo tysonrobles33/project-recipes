@@ -1,0 +1,12 @@
+  .header {
+    background-color: rgb(122, 122, 122);
+    color: white;
+}
+body {
+    text-align: center;
+}
+
+ul {
+  margin-left: 40%;
+  text-align: left;
+}
