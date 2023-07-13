@@ -4,6 +4,7 @@
     color: white;
 }
 body {
+    margin: 0;
     text-align: center;
 }
 
@@ -12,6 +13,5 @@ ul {
     text-align: left;
 }
 ol {
-    margin-left: 40%;
     text-align: left;
 }
