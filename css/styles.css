@@ -1,0 +1,15 @@
+.header {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(122, 122, 122);
+    color: white;
+}
+
+body {
+    margin: 0;
+}
+
+.recipes div{
+    display: inline;
+}
