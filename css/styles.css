@@ -9,7 +9,14 @@
 body {
     margin: 0;
 }
+.recipes div {
+    display: inline-block;
+    text-align: center;
+    margin-top: 25px;
+}
 
-.recipes div{
-    display: inline;
+div img {
+    height: 250px;
+    width: 250px;
+    margin: 5px;
 }
