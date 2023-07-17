@@ -9,15 +9,16 @@
 body {
     margin: 0;
 }
-.recipes div {
-    margin-top: 25px;
-    display: inline-block;
-    width: 250px;
-    text-align: center;
-    margin: 5px;
+.recipes {
+    display: flex;
+    flex: 2 2 0;
+    flex-direction: row;
+    flex-flow: wrap;
 }
 
-a {
+.recipes div {
+    display: flex;
+    flex-direction: column;
 }
 
 div img {
